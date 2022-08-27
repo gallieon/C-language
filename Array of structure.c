@@ -20,10 +20,7 @@
  printf("\nstudent information list:");
  for(i=0;i<5;i++){
      printf("\nroll: %d, name:%s",st[i].rollno,st[i].name);
- }
-     
-     
-     
+ }  
      
  }
  
